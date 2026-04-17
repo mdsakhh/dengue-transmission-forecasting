@@ -20,11 +20,9 @@ The analysis focuses on dengue surveillance data from the eight administrative d
 
 ## Repository structure
 - `data/` – input and processed data
-- `src/` – modeling and utility scripts
-- `notebooks/` – exploratory and analysis notebooks
+- `scripts/` – modeling and utility scripts
 - `results/` – model outputs and evaluation summaries
 - `figures/` – plots and manuscript-ready figures
-- `docs/` – manuscript drafts, notes, and supplementary materials
 
 ## Goals
 - characterize dengue transmission dynamics in Bangladesh
