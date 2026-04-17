@@ -32,5 +32,5 @@ The analysis focuses on dengue surveillance data from the eight administrative d
 - compare machine learning and mechanistic forecasting approaches
 - support surveillance and early warning for dengue outbreaks
 
-## Author
-Md Sakhawat Hossain
+## Authors
+Md Sakhawat Hossain and Haridas Kumar Das
